@@ -1,7 +1,7 @@
 fun main() {
     val age = 7
     val name = "Tommie"
-    
+
     println("=+=+=+=+=+=+=+=+=+=+=+=+")
     println("Happy Birthday, ${name}!")
     println("=+=+=+=+=+=+=+=+=+=+=+=+")
